@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79710985982",
+    "project_id": "the-box-44cb6",
+    "storage_bucket": "the-box-44cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79710985982:android:b84268af686af4ca0d4faf",
+        "android_client_info": {
+          "package_name": "com.madein.thebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79710985982-2vbtf6m9gk776ikgnc0r8k9sg1adkt8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8wb8PIdUZBX7wXbwCmxw4WUZW_5gKZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79710985982-2vbtf6m9gk776ikgnc0r8k9sg1adkt8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
