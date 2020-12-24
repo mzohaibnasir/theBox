@@ -3,8 +3,9 @@
 
 # Download apk
 
-<a href="https://github.com/orhanBae/theBox/blob/master/TheBox.apk"><p>Click here to download apk</p></a>
+<a href="https://github.com/orhanBae/theBox/blob/master/TheBox.apk"><img src="https://github.com/orhanBae/theBox/blob/master/images/iconTheBox.png"></a>
 # Screenshots:
+
 
 <img src="https://github.com/orhanBae/theBox/blob/master/images/1.jpeg" alt="Your image title" width="250" left="50"/>      <img src="https://github.com/orhanBae/theBox/blob/master/images/2.jpeg" alt="Your image title" width="250" />
 
