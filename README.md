@@ -8,6 +8,10 @@
 # Libraries used
     Glide (to load images)
     Swiperefreshlayout (to refresh users list by swiping from top to bottom)
+    Firebase (for database)
+    
+# Testing device
+    samsung A20 (720x1560px)
 
 # Screenshots:
 
