@@ -8,11 +8,5 @@
 
 
 <img src="https://github.com/orhanBae/theBox/blob/master/images/1.jpeg" alt="Your image title" width="250" left="50"/>      <img src="https://github.com/orhanBae/theBox/blob/master/images/2.jpeg" alt="Your image title" width="250" />
-
-<hr>
-
 <img src="https://github.com/orhanBae/theBox/blob/master/images/3.jpeg" alt="Your image title" width="250" />     <img src="https://github.com/orhanBae/theBox/blob/master/images/4.jpeg" alt="Your image title" width="250" />
-
-<hr>
-
 <img src="https://github.com/orhanBae/theBox/blob/master/images/5.jpeg" alt="Your image title" width="250" />
