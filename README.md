@@ -1,5 +1,5 @@
 # theBox
-"TheBox" is an android based chatting app developed in java using firebase. user can message. Responsive UI layout hasn't been integrated so it may cause some problems if your android screen size is less than 6.4'' (720x1560).
+"TheBox" is an android based chatting app developed in java using firebase. Users can message eachother just like other anyother social app. Responsive UI layout hasn't been integrated so it may cause some problems if your android screen size is less than 6.4'' (720x1560).
 
 # Download apk
 
