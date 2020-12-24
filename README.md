@@ -4,6 +4,11 @@
 # Download apk
 
 <a href="https://github.com/orhanBae/theBox/blob/master/TheBox.apk"><img src="https://github.com/orhanBae/theBox/blob/master/images/iconTheBox.png"></a>
+
+# Libraries used
+    Glide (to load images)
+    Swiperefreshlayout (to refresh users list by swiping from top to bottom)
+
 # Screenshots:
 
 
